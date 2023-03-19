@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1216},"pages":[{"id":"page-home","displayName":"Home","link":{"linkType":"LinkTypePage","href":"#!page-home"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-portfolio","displayName":"portfolio","link":{"linkType":"LinkTypePage","href":"#!page-portfolio"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-resume","displayName":"Resume","link":{"linkType":"LinkTypePage","href":"#!page-resume"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-contact-me","displayName":"Contact me","link":{"linkType":"LinkTypePage","href":"#!page-contact-me"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
